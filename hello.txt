@@ -1,3 +1,5 @@
 hello steadycoder!
 it's me!
 good luck!
+try git no.1
+success!
